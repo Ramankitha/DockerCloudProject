@@ -1,0 +1,16 @@
+************|| text file at location: /home/data ||************
+IF.txt
+Limerick.txt
+
+************|| b.Read the two text files and count total number of words in each text files ||************
+total number of words in [IF.txt] is : 287
+total number of words in [Limerick.txt] is : 32
+
+************|| grand total (total number of words in both files) ||************
+total number of words in both files [IF.txt,Limerick.txt] is: 319
+
+************|| top 3 words with maximum number of counts in IF.txt ||************
+[('you', 14), ('If', 13), ('can', 12)]
+
+************|| IP address ||************
+Your Computer IP Address is:172.17.0.2
